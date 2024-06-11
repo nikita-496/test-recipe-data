@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "name": "Alice",
+      "email": "alicea@gmail.com",
+      "password": "a999496990",
+      "recipes": [1],
+      "blogs": [4],
+      "comments": [2],
+      "favoriteRecipes": [6, 1]
+    }
+  ]
+}
